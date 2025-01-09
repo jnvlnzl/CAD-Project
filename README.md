@@ -4,7 +4,7 @@
 
 ![image](https://github.com/user-attachments/assets/98960b41-bf07-41ce-afac-7f5169c71132)
 
-### 3D Model in OnShape
+### 3D Model in Onshape
 
 ![image](https://github.com/user-attachments/assets/b1c0b651-45ef-42bf-a56d-67d9413e5a15)
 
